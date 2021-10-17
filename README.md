@@ -1,4 +1,6 @@
 #ISIS1225 - Librerias de soporte
+Daniel Arango Cruz 202110646 d.arangoc2@uniandes.edu.co
+Oscar Iván Garcia 201630048 oi.garcia@uniandes.edu.co
 
 Este proyecto contiene los Tipos abstractos de datos, estructuras de datos y algoritmos requeridos por el curso ISIS1225-Estructuras de Datos y Algoritmos
 
